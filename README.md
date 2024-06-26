@@ -1,3 +1,3 @@
 # pacmanDemo.github.io
 
-Play Pacman: 
+Play Pacman: **https://beast1309.github.io/pacmanDemo.github.io/**
